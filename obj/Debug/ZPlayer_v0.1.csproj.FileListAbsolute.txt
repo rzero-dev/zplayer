@@ -1,0 +1,17 @@
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\bin\Debug\ZPlayer_v0.1.exe.config
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\bin\Debug\ZPlayer_v0.1.exe
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\bin\Debug\ZPlayer_v0.1.pdb
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\obj\Debug\ZPlayer_v0.1.csproj.ResolveComReference.cache
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\obj\Debug\ZPlayer_v0._1.ZPlayer.resources
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\obj\Debug\ZPlayer_v0._1.Properties.Resources.resources
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\obj\Debug\ZPlayer_v0.1.csproj.GenerateResource.cache
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\obj\Debug\ZPlayer_v0.1.csproj.CoreCompileInputs.cache
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\obj\Debug\ZPlayer_v0.1.csproj.CopyComplete
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\obj\Debug\ZPlayer_v0.1.exe
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\obj\Debug\ZPlayer_v0.1.pdb
+C:\Users\Roosvelt\source\repos\ZPlayer_v0.1\obj\Debug\ZPlayer_v0.1.csprojAssemblyReference.cache

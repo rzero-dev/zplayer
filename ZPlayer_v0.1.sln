@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPlayer_v0.1", "ZPlayer_v0.1.csproj", "{BD68B801-3ECC-4FDE-BCB1-A3E5CFD5EE39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD68B801-3ECC-4FDE-BCB1-A3E5CFD5EE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD68B801-3ECC-4FDE-BCB1-A3E5CFD5EE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD68B801-3ECC-4FDE-BCB1-A3E5CFD5EE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD68B801-3ECC-4FDE-BCB1-A3E5CFD5EE39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6874EE4-64D1-431A-9713-C4437E12261F}
+	EndGlobalSection
+EndGlobal
